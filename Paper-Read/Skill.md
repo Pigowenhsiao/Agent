@@ -34,6 +34,8 @@ license: Complete terms in LICENSE.txt
 - **Navigation**：具備交互式側邊欄導航，支援錨點跳轉至各章節筆記。
 - **Spatial Composition**：使用響應式設計。表格需具備自適應寬度與星等評分視覺效果。
 - [cite_start]**10 組概念 Q&A**：在報告末尾提取最重要的概念性問題與答案，確保理解深度 [cite: 187]。
+- **Language**: 除了專有名詞，英文縮寫以及公式外其餘都使用繁體中文輸出，請注意輸出後在html 中呈現亂碼的問題
+- 必須檢查html 內容都正常後才能宣告完成作業
 
 ## 禁令 (Forbidden Behaviors)
 - **禁止閒聊與道歉**：直擊核心，不提供無意義的前言或過渡句。
